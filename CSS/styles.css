@@ -1,0 +1,24 @@
+
+body{
+  margin: 0;
+}
+
+.site-header{
+  margin-top: 0;
+}
+
+.top-container{
+  background-color: #FEF5ED;
+}
+
+.middle-container{
+  background-color: #D3E4CD;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container{
+  background-color: #ADC2A9;
+  width: 200px;
+  height: 200px;
+}
