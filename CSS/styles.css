@@ -37,13 +37,15 @@ p{
 .skill-picture{
   border-radius: 50%;
   width: 25%;
-
+  float: left;
+  margin-right: 30px;
 
 }
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+
 }
 .top-container{
   padding-top: 100px;
@@ -71,5 +73,8 @@ p{
   position: relative;
   bottom: 250px;
   left:400px;
+
+}
+.paragraf-skill{
 
 }
